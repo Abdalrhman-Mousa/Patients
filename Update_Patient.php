@@ -52,8 +52,8 @@ if(isset($_POST ['submit'])){
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>Register Today</h3>
-                        <p>Fill in the data below.</p>
+                        <h3>Update Patient</h3>
+                        <p>Update the data below.</p>
                         <form method="POST">
   <div class="mb-3"><p style="color:white;">Name</p>
   <input type="text" name="name" class="form-control" placeholder="Name" autocomplete="off" value="<?php echo $name; ?>"></div>
